@@ -1,0 +1,27 @@
+.logo{
+    text-align:center;
+    font-size:50px;
+}
+nav{
+    text-align:center;
+}
+nav ul li{
+   list-style:none; 
+   display:inline-block;
+   font-size:30px;
+}
+nav li+li{
+    margin-left:80px;
+}
+aside img{
+    float:left;
+    margin:10px;
+}
+aside p{
+    font-size:40px;
+    font-family:cursive;
+}
+footer{
+    text-align:center;
+    font-weight:600;
+}
